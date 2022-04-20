@@ -1,3 +1,4 @@
+#Morse to text, as well as text to morse translations
 morseDict={
     'A':'.-',
     'B':'-...',
