@@ -63,11 +63,11 @@ manualEntry=Entry(frame,
     )
 
 #Pack geometry with padding of 20
-manualEntry.pack(pady=20)
+manualEntry.pack(pady=10)
 
 #Seperate frames for buttons
 buttonFrame=Frame(ws)
-buttonFrame.pack(pady=20)
+buttonFrame.pack(pady=10)
 
 
 #Button to add task to list
