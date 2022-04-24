@@ -1,4 +1,4 @@
-package work;
+package RSS_Work;
 public class JavaIntro{
     public static void main(String[] args){
         //1. Write a program that displays your name in a box

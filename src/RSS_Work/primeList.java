@@ -1,4 +1,4 @@
-package work;
+package RSS_Work;
 import java.util.*;
 public class primeList {
     public static void main(String[] args) {

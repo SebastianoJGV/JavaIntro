@@ -1,4 +1,4 @@
-package work;
+package RSS_Work;
 import java.util.*; // Import scanner
 public class NumList {
     public static void main(String[] args){
