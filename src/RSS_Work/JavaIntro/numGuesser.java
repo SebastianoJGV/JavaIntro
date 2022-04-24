@@ -1,4 +1,4 @@
-package RSS_Work;
+package RSS_Work.JavaIntro;
 import java.util.*;
 public class numGuesser {
     public static void main(String[] args){

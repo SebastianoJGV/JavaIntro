@@ -1,4 +1,4 @@
-package RSS_Work;
+package RSS_Work.JavaIntro;
 public class HelloWorld {
     public static void main(String[] args) {
       int i=0;

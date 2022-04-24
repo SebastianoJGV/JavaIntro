@@ -1,4 +1,4 @@
-package RSS_Work;
+package RSS_Work.Projects;
 import java.util.*;
 
 public class decBinConvert {
