@@ -1,3 +1,7 @@
+# Author : Sebastiano Giannelli Viscardi
+# Date: 24-04-2022
+# Version: 1.0
+# Description : List of functions to work with numbers and basic math, used for teaching.
 
 def isPrime(num):
     if num == 1:

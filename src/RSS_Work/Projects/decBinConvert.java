@@ -1,5 +1,9 @@
 package RSS_Work.Projects;
 import java.util.*;
+/* Author : Sebastiano Giannelli Viscardi   
+* Date : 24-04-2022
+* Description : Converts a given binary number to decimal, or vice versa. */ 
+
 
 public class decBinConvert {
     public static void main(String[] args){

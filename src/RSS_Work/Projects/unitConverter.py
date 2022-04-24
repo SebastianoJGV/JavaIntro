@@ -1,3 +1,8 @@
+# Author : Sebastiano Giannelli Viscardi
+# Date: 24-04-2022
+# Version: 1.0
+# Description: Unit converter, convert between different units in both metric and imperial.
+
 weight = {
     "kg": 1000,
     "g": 1,
