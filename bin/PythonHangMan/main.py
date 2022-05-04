@@ -12,9 +12,11 @@ while guessedLetters!=word:
     if guess in word:
         guessedLetters.append(guess)
         counter=0
-        for guess in word:
-            index=word.index(guess)
-            guessedWord[index]=guess
+        if guess in word:
+            for i in word:
+                index=word.index(guess)
+                print(index)
+                guessedWord[index]=guess
         print('Correct!')
     else:
         attemptsCounter+=1
