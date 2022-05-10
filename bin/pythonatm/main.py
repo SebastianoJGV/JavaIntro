@@ -2,6 +2,8 @@ import tkinter as tk
 from tkinter import *
 from tkinter import ttk
 
+# TKinter GUI testing file
+
 class karl( Frame ):
     def __init__( self ):
         tk.Frame.__init__(self)
